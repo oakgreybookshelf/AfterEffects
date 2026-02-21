@@ -1,2 +1,2 @@
-new File ({ path});
-// app.project.item(index).layer(index).propertySpec.addToMotionGraphicsTemplate(comp)
+new File ({path: "C:/Users/faith/OneDrive/Documents/GitHub/AfterEffects/after.jsx"});
+// app.project.item(index).layer(index).propertySpec.addToMotionGraphicsTemplate(comp)`
